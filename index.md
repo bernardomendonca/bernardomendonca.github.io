@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Heya, Bernardo here!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm a PhD candidate at [ISF](https://www.uts.edu.au/isf).
+I'm passionate about data-science and I'm currently working on sustainable battery supply-chains

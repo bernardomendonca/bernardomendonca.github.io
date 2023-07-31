@@ -3,6 +3,7 @@ layout: page
 title: Projects
 ---
 
-## Nairobi Golf Course Social Housing re-development
-2013 - TBD 
-
+{% for project in site.projects %}
+  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+  <p>{{ project.date | date_to_string }}</p>
+{% endfor %}

@@ -4,6 +4,6 @@ title: Projects
 ---
 
 {% for project in site.projects %}
-  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+  <h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
   <p>{{ project.date | date_to_string }}</p>
 {% endfor %}

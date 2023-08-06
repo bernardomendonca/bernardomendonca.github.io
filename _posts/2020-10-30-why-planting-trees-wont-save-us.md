@@ -7,7 +7,7 @@ Some specialists would even claim that we've crossed the threshold - That we are
 ## Heres's what most people think
 Can you tell me which picture reflects the most environmental friendly area?
 
-![Tress and bog](../images/trees_and_bog.png)
+![Tress and bog](../_images/trees_and_bog.png)
 
 Most people would choose picture number 1, a dense, gorgeous forest. But, as you probably noticed, things aren't that simple.
 
@@ -18,7 +18,7 @@ From Purpose-driven companies to huge private conglomerates - We told ourselves 
 ## The unintended consequences
 In the 1980s the UK government encouraged tree planting through tax-breaks to private companies - Which was rapidly adopted. When investors started to look for a perfect place to plant such trees, they found the scrappy-looking underdeveloped flow country - A wet, mossy, cold, damp, smelly bog - As brilliantly put by Roman Mars in [this piece here](https://99percentinvisible.org/episode/for-the-love-of-peat/).
 
-![Badanloch Bogs](../images/badalonch_bogs.png)
+![Badanloch Bogs](../_images/badalonch_bogs.jpg)
 _Badanloch Bogs - Flow Country. Photo via Richard Lindsay_
 
 Badanloch Bogs - Flow Country. Photo via Richard Lindsay

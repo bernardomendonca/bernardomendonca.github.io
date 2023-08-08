@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why planting trees won't save us"
+date: 2020-10-30
 ---
 
 # Why planting trees won't save us

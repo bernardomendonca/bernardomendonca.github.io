@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why planting trees won't save us"
+tag: Environment
 ---
 
 # Why planting trees won't save us

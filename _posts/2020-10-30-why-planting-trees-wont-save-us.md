@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Why planting trees won't save us"
+---
+
 # Why planting trees won't save us
 
 We are hitting the point of no return when it comes to climate change.
